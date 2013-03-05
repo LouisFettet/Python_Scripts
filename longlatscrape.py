@@ -1,7 +1,7 @@
 # Fettet, Louis
-# Open Data Day DC 
+# Open Data Day DC, Millennium Challenge Corporation Project
 # 02/23/2013
-# Scraping the Longitude and Latitude of a Country's Capital City from Google
+# Scraping the Longitude and Latitude of a Country's Capital City from Google Instant Answers (Rejection of the Search API)
 
 import urllib
 from urllib import FancyURLopener
