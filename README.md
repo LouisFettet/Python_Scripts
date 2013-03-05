@@ -1,4 +1,4 @@
-Open_Data_Day_2013
+Python_Scripts
 ==================
 
-A Python script I wrote for the Millennium Challenge Corporation at Open Data Day at the World Bank in DC.
+A growing collection of scripts that I have written for various purposes.
